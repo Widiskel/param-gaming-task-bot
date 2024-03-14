@@ -13,7 +13,7 @@ paramgaming-bot is a Node.js script designed to interact with the Param Gaming A
 2. Install dependencies:
 
    ```bash
-   cd paramgaming-bot
+   cd param-gaming-task-bot
    npm install
    ```
 
